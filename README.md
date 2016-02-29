@@ -12,4 +12,4 @@ The files are numbered, but just for your information, they are supposed to be r
 
 3. Multi-layer Neural Networks
 
-4. Implementation 1
+4. Implementation: Plotting a Decision Boundary
